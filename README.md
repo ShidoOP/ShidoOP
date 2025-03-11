@@ -2,9 +2,9 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me insta - shido_op,
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me insta - shido.op,
+- 😄 Pronouns: Siddharth 
+- ⚡ Fun fact: Is nothing 
 
 <!---
 ShidoOP/ShidoOP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
