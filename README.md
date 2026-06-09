@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Siddharth Rai</h1>
-<h3 align="center">B.Tech Student | Full Stack Developer | Python & Java Programmer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShidoOP&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
+# ⚡ Siddharth Rai | ShidoOP ⚡
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=B.Tech+Student;Full+Stack+Developer;Python+Developer;Java+Programmer;Future+Software+Engineer;AI+%26+Data+Analytics+Enthusiast" />
+
+</div>
 
 ---
 
@@ -17,46 +18,94 @@
 
 ☕ Java Programmer
 
-📊 Interested in Data Analytics, AI & Machine Learning
+🌐 Building Web Applications
 
-🎮 Gamer & Tech Enthusiast
+📊 Exploring Data Analytics & AI
 
-🌱 Currently Improving DSA, System Design & Full Stack Development
+🎮 Gamer | Tech Enthusiast
+
+⚡ Always Learning New Technologies
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,react,nodejs,mysql,mongodb,git,github,vscode" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,react,nodejs,express,mysql,mongodb,git,github,vscode" />
+
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShidoOP&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShidoOP&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShidoOP&show_icons=true&theme=tokyonight" />
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShidoOP&layout=compact&theme=tokyonight" />
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ShidoOP&theme=tokyonight)
+</div>
 
 ---
 
-## 🎯 Current Goals
+## 🔥 Contribution Streak
 
-- Master Full Stack Development
-- Build Real-World Projects
-- Learn AI & Machine Learning
-- Contribute to Open Source
-- Become a Software Engineer
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ShidoOP&theme=tokyonight" />
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## 🏆 Achievements
 
-"Code. Learn. Build. Repeat."
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShidoOP&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+✔ Data Structures & Algorithms
+
+✔ Full Stack Development
+
+✔ Python Automation
+
+✔ AI & Machine Learning
+
+✔ Open Source Contributions
+
+---
+
+## 📂 Featured Projects
+
+🔹 Hospital Management System
+
+🔹 Data Analytics Dashboard
+
+🔹 Python Automation Tools
+
+🔹 Full Stack Web Applications
+
+🔹 Discord Bots & Utilities
+
+---
+
+## 🌟 Developer Philosophy
+
+> "The best way to predict the future is to build it."
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+</div>
